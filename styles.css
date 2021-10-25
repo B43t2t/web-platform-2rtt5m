@@ -1,0 +1,22 @@
+body {
+  font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  overflow: hidden; /* Hide scrollbars */
+}
+
+h1 {
+  background: url('//jsbin-files.ably.io/images/logo.png') no-repeat;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 8px 0 0 120px;
+  height: 42px;
+}
+
+.row {
+  margin-bottom: 1em;
+}
+
+#div1 {
+  position:absolute; 
+  left:900px; 
+  top:400px;
+}
